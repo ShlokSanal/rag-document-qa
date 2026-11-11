@@ -1,6 +1,7 @@
-streamlit>=1.40
+streamlit>=1.57
 pypdf>=5.0
 sentence-transformers>=3.0
 numpy>=1.26
 google-genai>=1.0
 python-dotenv>=1.0
+supabase>=2.10
